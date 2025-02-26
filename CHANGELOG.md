@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.0 (2025-02-26)
+
+
+### Features
+
+* Allow for non-standard provisioning URI params, eg. image/icon ([#91](https://github.com/wdalzalat/rotp/issues/91)) ([45d8aac](https://github.com/wdalzalat/rotp/commit/45d8aac8356424897faf3a0dbda59f88b22df775))
+
+
+### Bug Fixes
+
+* Fix tests breaking in latest Ruby, update devcontainer to 3.3 ([#143](https://github.com/wdalzalat/rotp/issues/143)) ([642deba](https://github.com/wdalzalat/rotp/commit/642deba39d09206e133deb93bc109b4c7ca420cf))
+
 ## [6.3.0](https://github.com/mdp/rotp/compare/v6.2.2...v6.3.0) (2023-08-30)
 
 
